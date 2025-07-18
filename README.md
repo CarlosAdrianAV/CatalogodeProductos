@@ -57,7 +57,7 @@ El backend corriendo primero y que el CORS lo permita (ya está configurado para
 
 ### 🧠 Enfoque
 
-Se usó una arquitectura **modular y limpia" facilita la lectura, mantenimiento y escalabilidad.
+Se usó una arquitectura **modular y limpia"** facilita la lectura, mantenimiento y escalabilidad.
 
 - **Backend**: Basado en controladores REST. Usa EF InMemory como base de datos de prueba.
 - **Frontend**: Desarrollado con componentes funcionales de React y hooks (`useState`, `useEffect`), además de `Material UI` para el diseño visual.
