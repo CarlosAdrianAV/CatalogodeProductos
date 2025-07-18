@@ -44,7 +44,7 @@ En este caso se abre la terminal en la carpeta del frontend(product-catalog-fron
 1. Se ejecuta
 ```
 npm install
-npm run dev
+npm start
 ```
 
 Esto levantará el frontend en `http://localhost:3000`
